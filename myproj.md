@@ -2,3 +2,4 @@
 ## Subtitle
 
 **Bold example**.
+*Italic*.
